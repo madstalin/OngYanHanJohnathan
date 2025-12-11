@@ -11,6 +11,9 @@ body {
     color: #333;
     line-height: 1.6;
     padding: 10px;
+    footer {
+  background-color: #93d0f4;
+}
 }
 
 /* Add in your own customisations */
