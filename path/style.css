@@ -8,6 +8,10 @@ header {
   background-color: #93d0f4;
 }
 
+selector {
+  text-align: center;
+}
+
 /* Body styling */
 body {
     font-family: Arial, sans-serif;
