@@ -26,6 +26,7 @@ body {
 table, th, td {
   border: 1px solid #ddd;
   border-collapse: collapse; /* ensures borders don't double up */
+  padding: 8px;
 }
 
 footer {
