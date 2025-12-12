@@ -31,6 +31,10 @@ table, th, td {
   text-align: left;
 }
 
+a {
+  color: #0079c1;
+}
+
 footer {
   background-color: #93d0f4;
   text-align: center;
