@@ -34,5 +34,6 @@ table, th, td {
 footer {
   background-color: #93d0f4;
   text-align: center;
+  padding: 10px;
 }
 /* Add in your own customisations */
