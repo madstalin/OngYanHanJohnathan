@@ -26,6 +26,10 @@ body {
   font-weight: bold;
 }
 
+.underline {
+  font-weight: underline;
+}
+
 table,
 th,
 td {
