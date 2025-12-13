@@ -36,6 +36,13 @@ body {
   margin: 0;
 }
 
+.italic {
+  text-decoration: italic;
+  display: inline;
+  padding: 0;
+  margin: 0;
+}
+
 table,
 th,
 td {
