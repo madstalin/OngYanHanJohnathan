@@ -24,10 +24,6 @@ body {
   padding: 0;
 }
 
-p {
-  margin: 0em 0;
-}
-
 .bold {
   font-weight: bold;
   display: inline;
@@ -62,7 +58,6 @@ td {
 a {
   color: #0079c1;
   padding: 1px;
-  margin-bottom: 0em;
 }
 
 footer {
