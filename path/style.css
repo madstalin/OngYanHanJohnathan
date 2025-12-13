@@ -1,5 +1,8 @@
 /* Resetting default margin and padding for all elements */
-.stylesheet {
+* {
+  margin: 0;
+  padding: 5;
+}
 
     header {
         background-color: #93d0f4;
@@ -63,4 +66,3 @@
 
 
 
-}
