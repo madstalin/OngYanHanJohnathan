@@ -21,8 +21,8 @@ body {
   font-size: 16px;
   line-height: 1;
   padding: 2px;
-  line-height: 1.6;
-  max-width: 65ch;
+  line-height: 1;
+  max-width: 95ch;
 }
 
 table,
