@@ -22,6 +22,9 @@ body {
   line-height: 1;
 }
 
+multinational {
+  font-weight: bold;
+}
 table,
 th,
 td {
