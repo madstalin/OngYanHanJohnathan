@@ -27,7 +27,7 @@ body {
 }
 
 .underline {
-  font-weight: underline;
+  text-decoration: underline;
 }
 
 table,
