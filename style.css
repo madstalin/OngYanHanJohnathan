@@ -1,0 +1,66 @@
+/* Resetting default margin and padding for all elements */
+* {
+  margin: 0;
+  padding: 10;
+}
+
+header {
+  background-color: #93d0f4;
+  text-align: center;
+  font-size: 10px;
+  color: white;
+}
+
+
+
+/* Body styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  color: #333;
+  font-size: 14px;
+
+}
+
+.bold {
+  font-weight: bold;
+  display: inline;
+  padding: 0;
+  margin: 0;
+}
+
+.underline {
+  text-decoration: underline;
+  display: inline;
+  padding: 0;
+  margin: 0;
+}
+
+.italic {
+  font-style: italic;
+  display: inline;
+  padding: 0;
+  margin: 0;
+}
+
+table,
+th,
+td {
+  border: 1px solid #ddd;
+  border-collapse: collapse; /* ensures borders don't double up */
+  padding: 10px;
+  width: 1400px;
+  text-align: left;
+  font-size: 14px;
+}
+
+a {
+  color: #0079c1;
+  padding: 1px;
+}
+
+footer {
+  background-color: #93d0f4;
+  text-align: center;
+  padding: 10px;
+}
