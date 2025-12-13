@@ -19,9 +19,8 @@ body {
   background-color: #f2f2f2;
   color: #333;
   font-size: 16px;
-  height: 100%;
-  margin: 0; /* remove default spacing */
-  padding: 0;
+  height: 100vh; /* 100% of viewport height */
+  overflow: hidden; /* hide overflow to prevent scrolling */
 }
 
 .bold {
