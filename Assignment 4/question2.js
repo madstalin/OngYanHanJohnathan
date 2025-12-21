@@ -5,7 +5,6 @@ let sum = 0;
 for (let i = 0; i < amdPrices.length; i++) {
   sum += amdPrices[i];
   
-  
 }
 
 const average = sum / amdPrices.length;
