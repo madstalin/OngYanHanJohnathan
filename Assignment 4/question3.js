@@ -17,4 +17,4 @@ for (let i = 0; i < amdPrices.length; i++) {
   }
 }
 
-console.log("Number of days above the 7-day SMA: ", daysAboveAverage);
+console.log("Number of days above the 7-day SMA is: ", daysAboveAverage);
