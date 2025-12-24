@@ -9,4 +9,4 @@ for (let i = 0; i < amdPrices.length; i++) {
 
 const average = sum / amdPrices.length;
 
-console.log("The 7-day SMA of AMD is ", average);
+console.log("The 7-day SMA of AMD is ", average.toFixed(2));
