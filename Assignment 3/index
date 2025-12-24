@@ -3,6 +3,7 @@
 		<script type = "text/javascript" src = "./question1.js"></script>
 		<script type = "text/javascript" src = "./question2.js"></script>
 		<script type = "text/javascript" src = "./question3.js"></script>
+		<script type = "text/javascript" src = "./question4.js"></script>
 	</head>
 	<body>
 	</body>
