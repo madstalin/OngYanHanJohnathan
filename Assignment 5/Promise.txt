@@ -2,34 +2,33 @@ Example Question:
 p.then(value => console.log(value));
 
 Question 1:
-// Your code here
+// p.then(promise => console.log(promise));
 
 Question 2:
-// Your code here
+// p.catch(err => console.error(err.message));
 
 Question 3:
-// Your code here
+// p.then(promise => console.log(promise));
 
 Question 4:
 // Your code here
 
 Question 5:
-// Your code here
+// p.catch(error => console.log(error));
 
 Question 6:
-// Your code here
+// Promise.resolve(42).finally(() => console.log("Promise settled"));
 
 Question 7:
-// Your code here
+// p.then(promise => console.log(promise*2));
 
 Question 8:
-// Your code here
+// p.catch(error => console.log(error = 0));
 
 Question 9:
-// Your code here
+// Promise.all([Promise.resolve(1), Promise.resolve(2), Promise.resolve(3)]).then(console.log);
 
 Question 10:
-// Your code here
-
+// setTimeout(() => console.log('b'), 50);
 Bonus Question:
 // Your code here
